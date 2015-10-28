@@ -1,13 +1,3 @@
-## Show modified files
-```
-git status
-```
-
-## Show commit logs
-```
-git log
-``` 
-
 ## Clone
 
 With ssh key
@@ -17,6 +7,16 @@ ssh-add ~/.ssh/my-githubkey
 
 git clone git@github.com:microsat-dpad/git-demo.git
 ```
+
+## Show modified files
+```
+git status
+```
+
+## Show commit logs
+```
+git log
+``` 
 
 Without ssh key
 ```
@@ -34,8 +34,6 @@ git push -u origin master
 ```
 git pull origin master
 ```
-
----
 
 ## Create new branch
 ```
