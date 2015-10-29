@@ -2,4 +2,8 @@
 
 # How to Use
 
+## Kim.py
+
+1. Read threat, open Slack. 
+
 [Cheat Sheet!](CHEATSHEET.md)
