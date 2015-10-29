@@ -50,6 +50,8 @@ git checkout feature-name   // to transfer to feature-name branch
 ## Rebase master into feature-name branch
 ```
 git fetch
+git checkout master
+git pull
 git checkout feature-name
 git rebase master
 ```
