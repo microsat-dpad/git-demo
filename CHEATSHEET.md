@@ -1,11 +1,16 @@
 ## Clone
 
-With ssh key
+* With ssh key
 ```
 exec ssh-agent bash
 ssh-add ~/.ssh/my-githubkey
 
 git clone git@github.com:microsat-dpad/git-demo.git
+```
+
+* Without ssh key
+```
+git clone https://github.com/microsat-dpad/git-demo.git
 ```
 
 ## Show modified files
@@ -17,11 +22,6 @@ git status
 ```
 git log
 ``` 
-
-Without ssh key
-```
-git clone https://github.com/microsat-dpad/git-demo.git
-```
 
 ## Commit Changes
 ```
