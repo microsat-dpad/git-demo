@@ -2,6 +2,6 @@
 
 ## Kim.py
 
-Read threat, open Slack. 
+1. Read threat, open Slack. 
 
 [Cheat Sheet!](CHEATSHEET.md)
