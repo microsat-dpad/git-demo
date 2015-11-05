@@ -44,3 +44,4 @@ git push -u origin yourbranchname
 ```
 
 ## Step 4: Go to GitHub and submit a merge request
+![Submit Pull Request](images/submit-pull-request.png)
