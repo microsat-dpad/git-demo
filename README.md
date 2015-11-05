@@ -1,6 +1,6 @@
 # Collaboration Guide
 
-## Step 1: Create a new branch from master
+## Step 1: Create a new feature branch from master
 ```
 # Make sure you have the latest copy of master
 git checkout master
