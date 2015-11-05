@@ -1,5 +1,3 @@
-# This is a repository for our Workshop Wednesday session!
-
 # Collaboration Guide
 
 ## Step 1: Create a new branch from master
@@ -45,3 +43,5 @@ git push -u origin yourbranchname
 
 ## Step 4: Go to GitHub and submit a merge request
 ![Submit Pull Request](images/submit-pull-request.png)
+
+## Step 5: Wait for admin to merge your files into master. Congrats!
